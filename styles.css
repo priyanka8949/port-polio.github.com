@@ -1,0 +1,15 @@
+body{
+    background-color:rgb(207, 239, 229);
+    }
+hr{
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-top-width: 5px;
+    height: 0px;
+    width: 5%;
+
+  }
+  h2{
+     color: blue;
+  }
